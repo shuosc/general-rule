@@ -114,10 +114,11 @@ shuhelper.cn、shuer.link 。
 ### 第一条 社区主页
 
 社区主页：[osc.shu.edu.cn](https://osc.shu.edu.cn)
+(外网访问:[shuosc.com](https://www.shuosc.com))
 
 ### 第二条 GITHUB
 
-github网址：https://github.com/shuopensourcecommunity
+github网址：https://github.com/shuosc
 
 ### 第三条 微信公众号
 
@@ -149,7 +150,7 @@ QQ主群： 24061199
 
 ### 第一条 草案的提出
 
-每一位核心成员均有提出总则修改草案的权利，提出的草案请发送issues至 https://github.com/shuopensourcecommunity/general-rule 对应的分支下。
+每一位核心成员均有提出总则修改草案的权利，提出的草案请发送issues至 https://github.com/shuosc/general-rule 对应的分支下。
 
 ### 第二条 投票确认环节
 
